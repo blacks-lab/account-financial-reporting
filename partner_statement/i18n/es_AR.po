@@ -508,5 +508,10 @@ msgstr "en"
 msgid "or"
 msgstr "o"
 
-#~ msgid "Payment"
-#~ msgstr "Pago"
+
+#. module: partner_statement
+#: model_terms:ir.ui.view,arch_db:partner_statement.outstanding_statement_document
+msgid "Payment"
+msgstr "Pago"
+
+
