@@ -104,7 +104,7 @@
                                             </t>
                                         </t>
                                         <t t-if="line['name'] == '/'">
-                                            <span t-esc="line['ref']" />
+                                            Payment
                                         </t>
                                     </td>
                                     <td class="amount">
